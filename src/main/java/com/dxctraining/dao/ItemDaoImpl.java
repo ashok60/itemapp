@@ -6,7 +6,7 @@ import javax.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;
 
 import com.dxctraining.entities.*;
-import com.dxctraining.exceptions.ItemNotFoundException;
+import com.dxctraining.exception.ItemNotFoundException;
 
 
 @Repository
